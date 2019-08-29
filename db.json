@@ -1,0 +1,1141 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img_poster": "./../../../assets/temp/1-1_Ratio.jpg",
+      "img_post_alt": "vintage 1-1_Ratio picture",
+      "title": "1-1_Ratio",
+      "price": 11.99,
+      "currency": "CAD",
+      "description": "Step out in this gorgeous, eye catching rainbow striped summer dress made of 100% unicorn tears.",
+      "variant_id": 123456789,
+      "shop_url": "killer-janes-boutique.myshopify.com"
+    },
+    {
+      "id": 2,
+      "img_poster": "./../../../assets/temp/1-2_Ratio.jpg",
+      "img_post_alt": "vintage 1-2_Ratio picture",
+      "title": "1-2_Ratio",
+      "price": 22.99,
+      "currency": "CAD",
+      "description": "Step out in this gorgeous, eye catching rainbow striped summer dress made of 100% unicorn tears.",
+      "variant_id": 123456789,
+      "shop_url": "killer-janes-boutique.myshopify.com"
+    },
+    {
+      "id": 3,
+      "img_poster": "./../../../assets/temp/1-3_Ratio.jpg",
+      "img_post_alt": "vintage 1-3_Ratio picture",
+      "title": "1-3_Ratio",
+      "price": 33.99,
+      "currency": "CAD",
+      "description": "Step out in this gorgeous, eye catching rainbow striped summer dress made of 100% unicorn tears.",
+      "variant_id": 123456789,
+      "shop_url": "killer-janes-boutique.myshopify.com"
+    },
+    {
+      "id": 4,
+      "img_poster": "./../../../assets/temp/2-1_Ratio.jpg",
+      "img_post_alt": "vintage 2-1_Ratio picture",
+      "title": "2-1_Ratio",
+      "price": 44.99,
+      "currency": "CAD",
+      "description": "Step out in this gorgeous, eye catching rainbow striped summer dress made of 100% unicorn tears.",
+      "variant_id": 123456789,
+      "shop_url": "killer-janes-boutique.myshopify.com"
+    },
+    {
+      "id": 5,
+      "img_poster": "./../../../assets/temp/2-3_Ratio.jpg",
+      "img_post_alt": "vintage rainbow dress",
+      "title": "Rainbow Vintage Dress",
+      "price": 55.99,
+      "currency": "CAD",
+      "description": "Step out in this gorgeous, eye catching rainbow striped summer dress made of 100% unicorn tears.",
+      "variant_id": 123456789,
+      "shop_url": "killer-janes-boutique.myshopify.com"
+    },
+    {
+      "id": 6,
+      "img_poster": "./../../../assets/temp/3-1_Ratio.jpg",
+      "img_post_alt": "vintage 3-1_Ratio picture",
+      "title": "3-1_Ratio",
+      "price": 66.99,
+      "currency": "CAD",
+      "description": "Step out in this gorgeous, eye catching rainbow striped summer dress made of 100% unicorn tears.",
+      "variant_id": 123456789,
+      "shop_url": "killer-janes-boutique.myshopify.com"
+    },
+    {
+      "id": 7,
+      "img_poster": "./../../../assets/temp/3-2_Ratio.jpg",
+      "img_post_alt": "vintage 3-2_Ratio picture",
+      "title": "3-2_Ratio",
+      "price": 77.99,
+      "currency": "CAD",
+      "description": "Step out in this gorgeous, eye catching rainbow striped summer dress made of 100% unicorn tears.",
+      "variant_id": 123456789,
+      "shop_url": "killer-janes-boutique.myshopify.com"
+    },
+    {
+      "id": 8,
+      "img_poster": "./../../../assets/temp/4-5_Ratio.jpg",
+      "img_post_alt": "vintage 4-5_Ratio picture",
+      "title": "4-5_Ratio",
+      "price": 88.99,
+      "currency": "CAD",
+      "description": "Step out in this gorgeous, eye catching rainbow striped summer dress made of 100% unicorn tears.",
+      "variant_id": 123456789,
+      "shop_url": "killer-janes-boutique.myshopify.com"
+    },
+    {
+      "id": 9,
+      "img_poster": "./../../../assets/temp/5-4_Ratio.jpg",
+      "img_post_alt": "vintage 5-4_Ratio picture",
+      "title": "5-4_Ratio",
+      "price": 99.99,
+      "currency": "CAD",
+      "description": "Step out in this gorgeous, eye catching rainbow striped summer dress made of 100% unicorn tears.",
+      "variant_id": 123456789,
+      "shop_url": "killer-janes-boutique.myshopify.com"
+    }
+  ],
+  "chat": [
+    {
+      "messageId": 1,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "purple pants seems like a good idea",
+      "productId": null,
+      "dateCreate": 1566893048230,
+      "isFavourite": false,
+      "id": 1
+    },
+    {
+      "messageId": 1,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "i like big butts",
+      "productId": null,
+      "dateCreate": 1566893048230,
+      "isFavourite": false,
+      "id": 2
+    },
+    {
+      "messageId": 1,
+      "sender": "shopper",
+      "messageType": "text",
+      "messageContent": "I guess you cannot lie",
+      "productId": null,
+      "dateCreate": 1566893048230,
+      "isFavourite": false,
+      "id": 3
+    },
+    {
+      "messageId": 1,
+      "sender": "shopper",
+      "messageType": "text",
+      "messageContent": "i like big butts too",
+      "productId": null,
+      "dateCreate": 1566893048230,
+      "isFavourite": false,
+      "id": 4
+    },
+    {
+      "messageId": 1,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "mix a lot?",
+      "productId": null,
+      "dateCreate": 1566893120293,
+      "isFavourite": false,
+      "id": 5
+    },
+    {
+      "messageId": 2,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "Hi fred\nI'll put the intake stuff on the right side ",
+      "productId": null,
+      "dateCreate": 1566932153291,
+      "isFavourite": false,
+      "id": 6
+    },
+    {
+      "messageId": 2,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "dasfsafdasf",
+      "productId": null,
+      "dateCreate": 1566932153291,
+      "isFavourite": false,
+      "id": 7
+    },
+    {
+      "messageId": 3,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "asdfasdf",
+      "productId": null,
+      "dateCreate": 1566932245295,
+      "isFavourite": false,
+      "id": 8
+    },
+    {
+      "messageId": 1,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "asdfasdf",
+      "productId": null,
+      "dateCreate": 1566932255900,
+      "isFavourite": false,
+      "id": 9
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "hey budddydydydydydyd",
+      "productId": null,
+      "dateCreate": 1566938825221,
+      "isFavourite": false,
+      "id": 10
+    },
+    {
+      "messageId": 4,
+      "sender": "shopper",
+      "messageType": "text",
+      "messageContent": "asdfasdf",
+      "productId": null,
+      "dateCreate": 1566939302833,
+      "isFavourite": false,
+      "id": 11
+    },
+    {
+      "messageId": 4,
+      "sender": "shopper",
+      "messageType": "text",
+      "messageContent": "asdfasdf",
+      "productId": null,
+      "dateCreate": 1566939447209,
+      "isFavourite": false,
+      "id": 12
+    },
+    {
+      "messageId": 1,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "asdf",
+      "productId": null,
+      "dateCreate": 1566939477212,
+      "isFavourite": false,
+      "id": 13
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "product",
+      "messageContent": "",
+      "productId": 1,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 14
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "asdfasdf",
+      "productId": null,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 15
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "product",
+      "messageContent": "",
+      "productId": 2,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 16
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "product",
+      "messageContent": "",
+      "productId": 3,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 17
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "product",
+      "messageContent": "",
+      "productId": 4,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 18
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "product",
+      "messageContent": "",
+      "productId": 5,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 19
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "product",
+      "messageContent": "",
+      "productId": 6,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 20
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "product",
+      "messageContent": "",
+      "productId": 7,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 21
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "product",
+      "messageContent": "",
+      "productId": 8,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 22
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "product",
+      "messageContent": "",
+      "productId": 9,
+      "dateCreate": 1566939486624,
+      "isFavourite": false,
+      "id": 23
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "Fred like's the last pic\n",
+      "productId": null,
+      "dateCreate": 1567033759786,
+      "isFavourite": false,
+      "id": 24
+    },
+    {
+      "messageId": 4,
+      "sender": "merchant",
+      "messageType": "text",
+      "messageContent": "dlasjfklsdajfklasdjfkl jalk jaklsdjfklasdjfkl ajsdfkl jasdklf jklasdjf klasjdklf jaklsdfj klasjdf klajsdlf kjasdklf jaskldfj asd\n",
+      "productId": null,
+      "dateCreate": 1567094902377,
+      "isFavourite": false,
+      "id": 25
+    }
+  ],
+  "pictures": [
+    {
+      "id": 1,
+      "author": "Lisa",
+      "description": "A wonderful view of nature",
+      "img": "https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8V46UZCS0V.jpg",
+      "title": "A natural view"
+    },
+    {
+      "id": 2,
+      "author": "Andy",
+      "description": "Seaside sunset",
+      "img": "https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8V46UZCS0V.jpg",
+      "title": "Landscape view"
+    }
+  ],
+  "messages": [
+    {
+      "intake_id": 2,
+      "shopper_id": 6,
+      "merchant_id": 3,
+      "status": "accepted",
+      "id": 1
+    },
+    {
+      "intake_id": 26,
+      "shopper_id": 13,
+      "merchant_id": 4,
+      "status": "accepted",
+      "id": 2
+    },
+    {
+      "intake_id": 26,
+      "shopper_id": 13,
+      "merchant_id": 3,
+      "status": "accepted",
+      "id": 3
+    },
+    {
+      "intake_id": 22,
+      "shopper_id": 10,
+      "merchant_id": 3,
+      "status": "accepted",
+      "id": 4
+    }
+  ],
+  "intake": [
+    {
+      "description": "black angora sweater",
+      "department": "Men's Fashion",
+      "category": "Clothing",
+      "price": 2,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 1
+    },
+    {
+      "description": "purple pants",
+      "department": "Women's Fashion",
+      "category": "Handbags",
+      "price": 2,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 2
+    },
+    {
+      "description": "blue sunglasses",
+      "department": "Men's Fashion",
+      "category": "Accessories",
+      "price": 2,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 3
+    },
+    {
+      "description": "black leather clutch",
+      "department": "Women's Fashion",
+      "category": "Handbags",
+      "price": 3,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 4
+    },
+    {
+      "description": "white converse, size 9",
+      "department": "Men's Fashion",
+      "category": "Shoes",
+      "price": 1,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 5
+    },
+    {
+      "description": "black converse, size 9",
+      "department": "Men's Fashion",
+      "category": "Shoes",
+      "price": 1,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 6
+    },
+    {
+      "description": "white v neck t-shirt",
+      "department": "Men's Fashion",
+      "category": "Clothing",
+      "price": 0,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 7
+    },
+    {
+      "description": "new era raptors cap",
+      "department": "Men's Fashion",
+      "category": "Accessories",
+      "price": "",
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 8
+    },
+    {
+      "description": "black angora sweatpants",
+      "department": "Women's Fashion",
+      "category": "Clothing",
+      "price": 2,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 9
+    },
+    {
+      "description": "tim hortons coffee",
+      "department": "Women's Fashion",
+      "category": "Beauty",
+      "price": "",
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 10
+    },
+    {
+      "description": "black leather jacket",
+      "department": "Women's Fashion",
+      "category": "Clothing",
+      "price": 2,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 11
+    },
+    {
+      "userType": "shopper",
+      "description": "purple cardigan",
+      "department": "Women's Fashion",
+      "category": "Clothing",
+      "price": 3,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "tony@stark.com",
+      "password": "tonystark",
+      "id": 12
+    },
+    {
+      "userType": "shopper",
+      "description": "ASD",
+      "department": "Men's Fashion",
+      "category": "Shoes",
+      "price": 2,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance",
+      "id": 18
+    },
+    {
+      "userType": "shopper",
+      "description": "black angora signed in",
+      "department": "Women's Fashion",
+      "category": "Handbags",
+      "price": 2,
+      "dateCreate": 1566676327185,
+      "status": "ended",
+      "firstName": "Justin",
+      "lastName": "Justin",
+      "email": "justin@justin.com",
+      "password": "justin",
+      "id": 21
+    },
+    {
+      "userType": "shopper",
+      "description": "another angora signed in\n",
+      "department": "Women's Fashion",
+      "category": "Clothing",
+      "price": 1,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "Justin",
+      "email": "justin@justin.com",
+      "password": "justin",
+      "id": 22
+    },
+    {
+      "userType": "shopper",
+      "description": "fora a new user to be created when I intake",
+      "department": "Women's Fashion",
+      "category": "Handbags",
+      "price": "",
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin2",
+      "lastName": "Justin2",
+      "email": "justin2@justin2.com",
+      "password": "justin2",
+      "id": 23
+    },
+    {
+      "userType": "shopper",
+      "description": "time stamp please",
+      "department": "Men's Fashion",
+      "category": "Bags",
+      "price": 2,
+      "dateCreate": 1566676327185,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "Justin",
+      "email": "justin@justin.com",
+      "password": "justin",
+      "id": 24
+    },
+    {
+      "userType": "shopper",
+      "description": "a test before showing",
+      "department": "Women's Fashion",
+      "category": "Shoes",
+      "price": 2,
+      "dateCreate": 1566930177405,
+      "status": "active",
+      "firstName": "Britney",
+      "lastName": "Spears",
+      "email": "britney@spears.com",
+      "password": "britney",
+      "id": 25
+    },
+    {
+      "userType": "shopper",
+      "description": "this is a test for today's meeting",
+      "department": "Women's Fashion",
+      "category": "Handbags",
+      "price": 2,
+      "dateCreate": 1566931574400,
+      "status": "active",
+      "firstName": "Fred",
+      "lastName": "Hon",
+      "email": "fh@relevancecollective.com",
+      "password": "relevance",
+      "id": 26
+    },
+    {
+      "userType": "shopper",
+      "description": "asdfasdf",
+      "department": "Women's Fashion",
+      "category": "Shoes",
+      "price": 2,
+      "dateCreate": 1566932774398,
+      "status": "active",
+      "firstName": "Justin",
+      "lastName": "Justin",
+      "email": "justin@justin.com",
+      "password": "justin",
+      "id": 27
+    }
+  ],
+  "shopper": [
+    {
+      "id": 1,
+      "userType": "shopper",
+      "firstName": "Luke",
+      "lastName": "Skywalker",
+      "email": "luke@skywalker.com",
+      "password": "starwars",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031"
+    },
+    {
+      "id": 2,
+      "userType": "shopper",
+      "firstName": "Han",
+      "lastName": "Solo",
+      "email": "han@solo.com",
+      "password": "starwars",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593"
+    },
+    {
+      "id": 3,
+      "userType": "shopper",
+      "firstName": "Leia",
+      "lastName": "Organa",
+      "email": "leia@organa.com",
+      "password": "starwars",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447"
+    },
+    {
+      "id": 4,
+      "userType": "shopper",
+      "firstName": "Obi-Wan",
+      "lastName": "Kenobi",
+      "email": "obiwan@kenobi.com",
+      "password": "starwars",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623"
+    },
+    {
+      "id": 5,
+      "userType": "shopper",
+      "firstName": "Anakin",
+      "lastName": "Skywalker",
+      "email": "anakin@skywalker.com",
+      "password": "starwars",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "254-954-1289"
+    },
+    {
+      "firstName": "Justin",
+      "lastName": "P",
+      "email": "jp@relevancecollective.com",
+      "password": "relevance1",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "id": 6,
+      "userType": "shopper"
+    },
+    {
+      "userType": "shopper",
+      "firstName": "natalie",
+      "lastName": "portman",
+      "email": "natalie@portman.com",
+      "password": "natalie",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "id": 7
+    },
+    {
+      "userType": "shopper",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "tony@stark.com",
+      "password": "ironman",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "id": 8
+    },
+    {
+      "userType": "shopper",
+      "firstName": "John",
+      "lastName": "Wick",
+      "email": "john@wick.com",
+      "password": "johnwick",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "id": 9
+    },
+    {
+      "userType": "shopper",
+      "firstName": "Justin",
+      "lastName": "Justin",
+      "email": "justin@justin.com",
+      "password": "justin",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "id": 10
+    },
+    {
+      "userType": "shopper",
+      "firstName": "Justin2",
+      "lastName": "Justin2",
+      "email": "justin2@justin2.com",
+      "password": "justin2",
+      "avatar": "./assets/images/mission-icon_black.jpg",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "id": 11
+    },
+    {
+      "userType": "shopper",
+      "firstName": "Britney",
+      "lastName": "Spears",
+      "email": "britney@spears.com",
+      "password": "britney",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "id": 12
+    },
+    {
+      "userType": "shopper",
+      "firstName": "Fred",
+      "lastName": "Hon",
+      "email": "fh@relevancecollective.com",
+      "password": "relevance",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "id": 13
+    }
+  ],
+  "merchant": [
+    {
+      "userType": "merchant",
+      "firstName": "John",
+      "lastName": "Wick",
+      "email": "john@wick.com",
+      "password": "johnwick",
+      "avatar": "./assets/images/logo.png",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "website": "johnwick.com",
+      "company": {
+        "title": "John Wickedness",
+        "bio": ""
+      },
+      "shopify": true,
+      "shop_url": "johnwick.com",
+      "department": {
+        "fashion_women": {
+          "id": 1,
+          "eligible": true,
+          "categories": [
+            "clothing",
+            "shoes",
+            "handbags",
+            "beauty"
+          ]
+        },
+        "fashion_men": {
+          "id": 2,
+          "eligible": true,
+          "categories": [
+            "clothing",
+            "shoes",
+            "bags",
+            "grooming"
+          ]
+        }
+      },
+      "missions_accepted": {
+        "intake_id": []
+      },
+      "missions_skipped": {
+        "intake_id": []
+      },
+      "id": 1
+    },
+    {
+      "userType": "merchant",
+      "firstName": "Iron",
+      "lastName": "Man",
+      "email": "iron@man.com",
+      "password": "ironman",
+      "avatar": "./assets/images/logo.png",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "website": "ironman.com",
+      "company": {
+        "title": "Iron Man Inc.",
+        "bio": ""
+      },
+      "shopify": false,
+      "shop_url": null,
+      "department": {
+        "fashion_women": {
+          "id": 1,
+          "eligible": false,
+          "categories": [
+            "clothing",
+            "shoes",
+            "handbags",
+            "beauty"
+          ]
+        },
+        "fashion_men": {
+          "id": 2,
+          "eligible": true,
+          "categories": [
+            "clothing",
+            "shoes",
+            "bags",
+            "grooming"
+          ]
+        }
+      },
+      "id": 2
+    },
+    {
+      "userType": "merchant",
+      "firstName": "Justin",
+      "lastName": "Justin",
+      "email": "justin@justin.com",
+      "password": "justin",
+      "avatar": "./assets/images/logo.png",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "website": "",
+      "company": {
+        "title": "JustinJustin",
+        "bio": ""
+      },
+      "shopify": false,
+      "shop_url": null,
+      "department": {
+        "fashion_women": {
+          "id": 1,
+          "eligible": true,
+          "categories": [
+            "clothing",
+            "shoes",
+            "handbags",
+            "beauty"
+          ]
+        },
+        "fashion_men": {
+          "id": 2,
+          "eligible": true,
+          "categories": [
+            "clothing",
+            "shoes",
+            "bags",
+            "grooming"
+          ]
+        }
+      },
+      "id": 3,
+      "missions_accepted": [
+        22,
+        26,
+        2
+      ]
+    },
+    {
+      "userType": "merchant",
+      "firstName": "Fred",
+      "lastName": "Freddy",
+      "email": "fred@freddy.com",
+      "password": "relevance",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": "",
+        "geo": {
+          "lat": "",
+          "lng": ""
+        }
+      },
+      "phone": "",
+      "website": "fred.com",
+      "company": {
+        "title": "Fred's Store",
+        "bio": ""
+      },
+      "shopify": true,
+      "shop_url": "fred.com",
+      "department": {
+        "fashion_women": {
+          "eligible": true,
+          "categories": [
+            "clothing",
+            "shoes",
+            "handbags",
+            "beauty"
+          ]
+        },
+        "fashion_men": {
+          "eligible": true,
+          "categories": [
+            "clothing",
+            "shoes",
+            "bags",
+            "grooming"
+          ]
+        }
+      },
+      "missions_accepted": [
+        26
+      ],
+      "id": 4
+    }
+  ]
+}
